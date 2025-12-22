@@ -77,7 +77,7 @@ Build:     Electron Forge | Squirrel
 |----------|---------|------|
 | OpenAI | GPT-4, GPT-4o, o1 | Cloud |
 | Anthropic | Claude 3.5, Claude 4 | Cloud |
-| Google | Gemini 2.5 Flash | Cloud |
+| Google | Gemini 3 Pro Gemini 2.5 Flash | Cloud |
 | xAI | Grok | Cloud |
 | OpenRouter | 100+ modelos | Cloud |
 | Ollama | Llama, Mistral | Local |
@@ -111,7 +111,7 @@ Build:     Electron Forge | Squirrel
 
 ---
 
-## 📝 Changelog v1.1.4
+## 📝 Changelog v1.1.5
 
 - Melhorias de performance no sistema de geração de código
 - Novos templates de projeto
@@ -134,6 +134,7 @@ Resende, Rio de Janeiro, Brasil 🇧🇷
 </p>
 
 <!-- Updated: 2025-12-22 -->
+
 
 
 
