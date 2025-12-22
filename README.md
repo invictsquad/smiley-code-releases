@@ -75,10 +75,10 @@ Build:     Electron Forge | Squirrel
 
 | Provedor | Modelos | Tipo |
 |----------|---------|------|
-| OpenAI | GPT-4, GPT-4o, o1 | Cloud |
-| Anthropic | Claude 3.5, Claude 4 | Cloud |
-| Google | Gemini 3 Pro Gemini 2.5 Flash | Cloud |
-| xAI | Grok | Cloud |
+| OpenAI | GPT 5.2 | GPT 5.1 | Cloud |
+| Anthropic | Claude 4 | Claude 4.5 | Cloud |
+| Google | Gemini 3 Pro | Gemini 3 Flash | Cloud |
+| xAI | Grok 4 | Grok 3 | Cloud |
 | OpenRouter | 100+ modelos | Cloud |
 | Ollama | Llama, Mistral | Local |
 | LM Studio | Modelos GGUF | Local |
@@ -134,6 +134,7 @@ Resende, Rio de Janeiro, Brasil 🇧🇷
 </p>
 
 <!-- Updated: 2025-12-22 -->
+
 
 
 
