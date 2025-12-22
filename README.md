@@ -20,7 +20,7 @@
 
 ## ✨ Sobre
 
-O **Smiley Code** é uma plataforma de desenvolvimento de aplicativos através da inteligência artificial.  Alternativa ao v0 / adorável / Bolt / Base44 / Replit / Dyad mas rodando **100% local no seu computador**.
+O **Smiley Code** é uma plataforma de desenvolvimento de aplicativos através da inteligência artificial. Alternativa ao v0 / adorável / Bolt / Base44 / Replit / Dyad mas rodando **100% local no seu computador**.
 
 ---
 
@@ -134,6 +134,7 @@ Resende, Rio de Janeiro, Brasil 🇧🇷
 </p>
 
 <!-- Updated: 2025-12-22 -->
+
 
 
 
