@@ -26,14 +26,6 @@ Uma alternativa poderosa ao V0, Lovable e Bolt - mas rodando **100% local no seu
 
 ---
 
-## 🖼️ Screenshots
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/invictsquad/smiley-code-releases/main/screenshots/tela-chat.png" alt="Chat do Smiley Code" width="700"/>
-</p>
-
----
-
 ## 🚀 Recursos
 
 ### 🤖 Inteligência Artificial
@@ -144,3 +136,4 @@ Resende, Rio de Janeiro, Brasil 🇧🇷
 </p>
 
 <!-- Updated: 2025-12-22 -->
+
