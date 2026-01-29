@@ -27,16 +27,14 @@ O **Smiley Code** é uma plataforma de desenvolvimento de aplicativos através d
 ## 🚀 Recursos
 
 ### 🤖 Inteligência Artificial
-- **Multi-Provider**: OpenAI, Anthropic, Google, xAI, OpenRouter, Ollama, LM Studio
+- **Multi-Provider**: OpenAI, Anthropic, Google, xAI, OpenRouter
 - **Modo Auto**: Seleção automática do melhor modelo disponível
 - **Streaming**: Respostas em tempo real com thinking/reasoning
-- **MCP**: Integração com ferramentas externas
 - **Cache Semântico**: Otimização de tokens e custos
 
 ### 💻 Geração de Código
 - **Sistema de Agentes**: Architect, Developer, QA, Reviewer
 - **Validação Automática**: Segurança, qualidade e performance
-- **Templates**: React, Next.js, Vue, Svelte, Node.js
 - **Design Tokens**: Sistema de design consistente
 
 ### 🔗 Integrações
@@ -53,8 +51,7 @@ O **Smiley Code** é uma plataforma de desenvolvimento de aplicativos através d
 - Row Level Security (RLS)
 
 ### 🎨 Interface
-- 40+ componentes UI (Radix + shadcn/ui)
-- Tema claro/escuro
+- Tema escuro
 - Acessibilidade ARIA
 - Animações Framer Motion
 
@@ -80,8 +77,7 @@ Build:     Electron Forge | Squirrel
 | Google | Gemini 3 Pro, Gemini 3 Flash | Cloud |
 | xAI | Grok 4, Grok 3 | Cloud |
 | OpenRouter | 100+ modelos | Cloud |
-| Ollama | Llama, Mistral | Local |
-| LM Studio | Modelos GGUF | Local |
+
 
 ---
 
@@ -99,22 +95,9 @@ Build:     Electron Forge | Squirrel
 
 ---
 
-## 📊 Métricas
-
-| Métrica | Valor |
-|---------|-------|
-| Dependências | 300+ |
-| Componentes UI | 40+ |
-| Custom Hooks | 60+ |
-| IPC Handlers | 50+ |
-| DB Migrations | 20 |
-
----
-
 ## 📝 Changelog v1.1.5
 
 - Melhorias de performance no sistema de geração de código
-- Novos templates de projeto
 - Correções de bugs e estabilidade
 - Atualização de dependências
 
@@ -134,6 +117,7 @@ Resende, Rio de Janeiro, Brasil 🇧🇷
 </p>
 
 <!-- Updated: 2025-12-22 -->
+
 
 
 
